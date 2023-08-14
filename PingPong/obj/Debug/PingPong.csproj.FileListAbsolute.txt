@@ -1,0 +1,7 @@
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\bin\Debug\PingPong.exe.config
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\bin\Debug\PingPong.exe
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\bin\Debug\PingPong.pdb
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\obj\Debug\PingPong.exe
+E:\VisualStudioCommunity\ConsoleApp\PingPong\PingPong\obj\Debug\PingPong.pdb
